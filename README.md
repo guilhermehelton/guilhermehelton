@@ -7,5 +7,5 @@
 - 👨‍🎓 Sou estudante de Ciência da Computação
 - 💻 Estou estudando desenvolvimento web
 - 😄 Pronouns: ele/dele
-- 📫 Como me achar: Twitter @GuilhermeZer0 ou Instagram @helton_zer0
+- 📫 Como me achar: Instagram @helton_zer0
 

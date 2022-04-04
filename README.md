@@ -1,6 +1,5 @@
 ## Olá! Eu sou o Guilherme
 <div>
-
   <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermehelton&layout=compact&theme=jolly"/>
 </div>
 

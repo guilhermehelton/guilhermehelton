@@ -4,7 +4,6 @@
 </div>
 
 - 👨‍🎓 Sou estudante de Ciência da Computação
-- 💻 Estou estudando desenvolvimento web
-- 😄 Pronouns: ele/dele
-- 📫 Como me achar: Instagram @helton_zer0
+- 💻 Estou estudando desenvolvimento back-end
+- 📫 Como me achar: Linkedin - https://www.linkedin.com/in/guilherme-helton-52182915b/
 
